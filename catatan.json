@@ -1,0 +1,4 @@
+  // "build:css": "postcss src/index.css -o src/tailwind.css"
+  // "watch:css": "postcss src/index.css -o src/tailwind.css -w"
+  // "start": "npm run build:css && react-scripts start"
+  // "build": "npm run build:css && react-scripts build"
